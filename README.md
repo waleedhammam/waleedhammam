@@ -6,12 +6,11 @@ It's Waleed, A Software Engineer with great passion in Computer Science and new 
 
 - [js-ng](https://github.com/threefoldtech/js-ng): Config management/Automation framework
 - [js-sdk](https://github.com/threefoldtech/js-sdk): Extension to JS-NG to include Threefold Grid SDK
-- [tfta-trader](https://github.com/threefoldfoundation/tfta-trader): TFTA Sales bot
 
 🌱 I’m currently learning ...
 
-- CCNA
-- RHCSA
+- Golang
+- Blockchain
 
 💬 Ask me about ...
 
