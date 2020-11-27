@@ -11,6 +11,7 @@ It's Waleed, A Software Engineer with great passion in Computer Science and new 
 
 - Golang
 - Blockchain
+- Kubernetes
 
 💬 Ask me about ...
 
