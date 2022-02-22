@@ -14,12 +14,11 @@ It's Waleed, A Software Engineer with great passion in Computer Science and new 
 🌱 I’m currently learning ...
 
 - Golang
-- Blockchain
 - Kubernetes
 
 💬 Ask me about ...
 
-- Python, some Javascript or Android or any discussion related to programming or any tech
+- Golang, Python, some Javascript or Android or any discussion related to programming or any tech
 
 📫 How to reach me: ...
 
