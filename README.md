@@ -6,11 +6,6 @@
 
 It's Waleed, A Software Engineer with great passion in Computer Science and new technologies
 
-🔭 I’m currently working on ...
-
-- [js-ng](https://github.com/threefoldtech/js-ng): Config management/Automation framework
-- [js-sdk](https://github.com/threefoldtech/js-sdk): Extension to JS-NG to include Threefold Grid SDK
-
 🌱 I’m currently learning ...
 
 - Golang
