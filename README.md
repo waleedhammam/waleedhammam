@@ -6,11 +6,6 @@
 
 It's Waleed, A Software Engineer with great passion in Computer Science and new technologies
 
-🌱 I’m currently learning ...
-
-- Golang
-- Kubernetes
-
 💬 Ask me about ...
 
 - Golang, Python, some Javascript or Android or any discussion related to programming or any tech
