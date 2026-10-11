@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 It's Waleed, A Software Engineer with great passion in Computer Science and new technologies
-Also find me at https://github.com/waleedhammam1
+Also find me at https://github.com/waleedhammam1 & https://github.com/whammam-avenga
 
 💬 Ask me about ...
 
