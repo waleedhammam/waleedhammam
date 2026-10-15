@@ -12,9 +12,7 @@ Also find me at https://github.com/waleedhammam1 & https://github.com/whammam-av
 - Golang, Python, some Javascript or Android or any discussion related to programming or any tech
 
 📫 How to reach me: ...
-
-- Email: waleed.hammam@gmail.com
-- [Linkedin](https://www.linkedin.com/in/waleedhammam/)
+ [Linkedin](https://www.linkedin.com/in/waleedhammam/)
 
 ⚡ Fun fact: ...
 
